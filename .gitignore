@@ -75,6 +75,7 @@ coverage
 *.sln
 *.sw?
 shop.db
+seed_data.py
 
 *.tsbuildinfo
 .vscode
